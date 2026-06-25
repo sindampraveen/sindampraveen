@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sindam Praveen 👋
 
-<!--
-**sindampraveen/sindampraveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- SQL
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Analytics
+- Machine Learning
+- Git & GitHub
+
+🚀 Projects
+- Fake Job Posting Detection
+- Real-Time Disaster Resource Mapping with SOS Coordination
+
+📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/sindam-praveen-08348a402
+
+📍 Hyderabad, India
+
