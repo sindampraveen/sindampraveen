@@ -1,6 +1,7 @@
-# Hi, I'm Sindam Praveen 👋
+![Profile Views](https://komarev.com/ghpvc/?username=sindampraveen&label=Profile%20Views&color=0e75b6&style=flat)
 
-🎓 B.Tech AI & ML Student
+# Hi, I'm Sindam Praveen 👋
+B.Tech AI & ML Student
 
 💻 Skills
 - Python
